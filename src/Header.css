@@ -28,7 +28,7 @@
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
-.header__center input{
+.header__center > input{
     border: none;
     padding: 10px;
     outline-width: 0;
