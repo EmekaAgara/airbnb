@@ -15,7 +15,46 @@ function SearchPage() {
             <Button variant="outlined">Rooms and beds</Button>
             <Button variant="outlined">More filters</Button>
         </div>
-        <SearchResult />
+        <SearchResult
+          img="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=20"
+          location="Private room in the center of Nigeria"
+          title="Stay at this Luxury House"
+          description="1 guest · 1 bed · 1.5 shared bedrooms · wifi · kitchen · Free Parking · Washing Machine"
+          star="4.56"
+          price="$50 / night"
+          total="$100 total" 
+        />
+
+        <SearchResult
+          img="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=20"
+          location="Private room in the center of Nigeria"
+          title="Stay at this Luxury House"
+          description="1 guest · 1 bed · 1.5 shared bedrooms · wifi · kitchen · Free Parking · Washing Machine"
+          star="4.56"
+          price="$50 / night"
+          total="$100 total" 
+        />
+
+        <SearchResult
+          img="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=20"
+          location="Private room in the center of Nigeria"
+          title="Stay at this Luxury House"
+          description="1 guest · 1 bed · 1.5 shared bedrooms · wifi · kitchen · Free Parking · Washing Machine"
+          star="4.56"
+          price="$50 / night"
+          total="$100 total" 
+        />
+
+        <SearchResult
+          img="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=20"
+          location="Private room in the center of Nigeria"
+          title="Stay at this Luxury House"
+          description="1 guest · 1 bed · 1.5 shared bedrooms · wifi · kitchen · Free Parking · Washing Machine"
+          star="4.56"
+          price="$50 / night"
+          total="$100 total" 
+        />
+ 
     </div>
   )
 }
